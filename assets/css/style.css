@@ -1,0 +1,110 @@
+.montserrat-uniquifier {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.carousel-item {
+    height: 100%;
+    background-size: cover
+  }
+
+  .carousel-inner {
+    width: 100%;
+    height: 800px; 
+  }
+
+  .linea {
+    height: 1px; 
+    background-color: gray; 
+    border: none; 
+    margin: 20px 0; 
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.linea-contacto {
+    height: 1px; 
+    background-color: gray; 
+    border: none; 
+    margin: 20px 0; 
+}
+
+.gone-container {
+    font-family: "Montserrat", sans-serif;
+    background-color: black;
+    color: white;
+    padding: 3%;
+    text-align: center;
+}
+
+.gone {
+    background-color: black;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    text-align: justify;
+}
+
+.icons1 {
+    display: flex;
+    background-color: rgb(50, 186, 240);
+    color: white;
+    justify-content: center;
+    padding: 1%;
+}
+
+.card-col {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card {
+    color: white;
+}
+
+.contacto {
+    padding: 40px 0;
+}
+
+.contacto form {
+    width: 100%;
+}
+
+.contacto .form-group {
+    margin-bottom: 15px;
+}
+
+.btn-primary {
+    background-color: rgb(50, 186, 240);
+}
+
+
+.footer {
+    background-color: rgb(50, 186, 240);
+    color: #ffffff;
+    padding: 30px;
+    width: 100%;
+}
+
+.fa-iconos-credito {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fa-iconos-credito h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin-left: 10%;
+}
+
+.redessociales a {
+    color: white;
+    margin-left: 10px;
+}
+
+.redessociales {
+    margin-right: 10%;
+}
